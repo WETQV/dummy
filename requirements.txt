@@ -1,0 +1,2 @@
+# Зависимости для модуля работы с DummyJSON API
+requests
